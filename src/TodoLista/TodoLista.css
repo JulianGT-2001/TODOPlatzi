@@ -1,0 +1,11 @@
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0;
+    width: 50%;
+    margin: auto;
+    
+}

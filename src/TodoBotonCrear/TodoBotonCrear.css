@@ -1,0 +1,28 @@
+.ButtonCrear {
+    border-radius: 50%;
+    /* padding: 20px; */
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: #0ff;
+    border-color: #fff;
+    box-shadow: 2px 3px 8px 3px rgba(0,0,0,0.49);
+    -webkit-box-shadow: 2px 3px 8px 3px rgba(0,0,0,0.49);
+    -moz-box-shadow: 2px 3px 8px 3px rgba(0,0,0,0.49);
+    cursor: pointer;
+    font-size: 50px;
+    font-weight: bold;
+    height: 64px;
+    width: 64px;
+    z-index: 2;
+}
+
+.ButtonCrear:hover {
+    transform: rotate(224deg);
+    transition: .3s ease;
+}
+
+.ButtonCrear:not(:hover){
+    transform: rotate(0);
+    transition: .3s ease-in-out;
+}
