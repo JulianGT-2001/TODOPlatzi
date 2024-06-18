@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TODOPlatzi/static/css/main.126d88a9.css",
+    "main.js": "/TODOPlatzi/static/js/main.863247b5.js",
+    "index.html": "/TODOPlatzi/index.html",
+    "main.126d88a9.css.map": "/TODOPlatzi/static/css/main.126d88a9.css.map",
+    "main.863247b5.js.map": "/TODOPlatzi/static/js/main.863247b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126d88a9.css",
+    "static/js/main.863247b5.js"
+  ]
+}
